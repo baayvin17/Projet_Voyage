@@ -220,7 +220,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 225,Bangkok,2024-05-01 00:00:00,2024-05-09,8,Andrea White,62,Male,French,Hotel,283.58,Bus,124.1
 226,Istanbul,2023-06-16 00:00:00,2023-07-05,19,Theresa Jones,38,Female,Dutch,Hotel,138.97,Plane,1158.14
 227,Prague,2024-10-14 00:00:00,2024-10-17,3,Jonathan Hester,26,Male,South Korean,Hotel,135.74,Boat,787.2
-228,Prague,2023-05-24 00:00:00,2023-05-30,6,Bernard Walker,49,Male,South Korean,Guesthouse,605.83,Plane,94.07
+228,Prague,2023-05-24 00:00:00,2023-05-30,6,Bernard Walker,49,Male,South Korean,Guesthouse,0,Plane,94.07
 229,London,2023-06-07 00:00:00,2023-06-22,15,Bryan Fleming,42,Male,Turkish,Hotel,237.32,Boat,47.81
 230,Lisbon,2023-09-14 00:00:00,2023-09-16,2,Mathew Matthews,64,Male,German,Hotel,941.62,Plane,883.35 USD
 231,Dubai,2023-05-12 00:00:00,2023-06-04,23,John Valenzuela,23,Male,Spanish,Airbnb,715.67,Boat,934.53
@@ -243,7 +243,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 250,Singapore,2024-07-25 00:00:00,2024-08-08,14,Jeffrey Munoz,32,Male,South Korean,Airbnb,173.93,Plane,718.94
 251,Miami,2024-11-01 00:00:00,,16,Kenneth Wells,41,Male,German,Resort,84.47,Car rental,236.82
 252,Singapore,2023-09-15 00:00:00,2023-10-10,25,Eric Phillips,44,Male,German,Airbnb,$155.63,Plane,"1,074.3 USD"
-253,Cape Town,2024-09-08 00:00:00,2024-10-06,28,Cynthia Bennett,45,Male,American,Guesthouse,572.43,Train,945.23
+253,Cape Town,2024-09-08 00:00:00,2024-10-06,28,Cynthia Bennett,45,Male,American,Guesthouse,0,Train,945.23
 254,Toronto,2024-09-11 00:00:00,2024-09-28,17,Rose Lopez,25,Male,Spanish,Hotel,909.22,Plane,451.95
 255,Barcelona,2023-06-10 00:00:00,2023-07-02,22,Jason Williams,71,Female,Mexican,Airbnb,66.35,Bus,1490.95
 256,Lisbon,2024-09-22 00:00:00,2024-10-13,21,Mr. William Cunningham,70,Male,Thai,Hotel,400.67,Boat,1072.41
@@ -314,7 +314,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 326,Lisbon,2023-08-15 00:00:00,2023-09-02,18,Mr. Jesus Banks,79,Male,Thai,Resort,67.34,Bus,71.25
 327,Istanbul,2024-04-08 00:00:00,2024-05-04,26,Kathy Hawkins,60,Female,American,Hotel,467.63,Plane,1133.5
 328,Prague,26-02-2023,2023-03-06,8,John Hunt,38,Male,Vietnamese,Hotel,630.3,Car rental,1005.68
-329,Los Angeles,2024-11-03 00:00:00,2024-11-20,17,Charles Hernandez,28,Female,British,Guesthouse,690.11,Plane,311.12
+329,Los Angeles,2024-11-03 00:00:00,2024-11-20,17,Charles Hernandez,28,Female,British,Guesthouse,0,Plane,311.12
 330,Paris,2024-11-20 00:00:00,2024-12-01,11,Mackenzie Brown,37,Male,Indonesian,Airbnb,588.87,Bus,405.6
 331,Bangkok,2023-09-05 00:00:00,2023-09-23,18,Jill Gross,24,Male,American,Airbnb,947.51,Plane,403.5
 333,Dubai,2024-12-21 00:00:00,2025-01-05,15,Tony Potter,79,Male,German,Riad,211.23,Plane,1457.65
@@ -360,7 +360,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 376,Dubai,2024-12-23 00:00:00,2025-01-09,17,David Gomez,25,Male,Japanese,Hostel,956.09,Train,1143.31
 377,Los Angeles,2023-09-15 00:00:00,2023-09-23,8,Vickie Ray,22,Male,Australian,Airbnb,644.2,Bus,427.41 USD
 378,Cairo,2024-09-21 00:00:00,2024-09-29,8,Judy Graham,44,Male,Portuguese,Hostel,602.79,Car rental,90.81
-379,Paris,2024-09-19 00:00:00,2024-10-13,24,Kenneth Smith,68,Female,Singaporean,Guesthouse,383.63,Car rental,1361.21
+379,Paris,2024-09-19 00:00:00,2024-10-13,24,Kenneth Smith,68,Female,Singaporean,Guesthouse,0,Car rental,1361.21
 380,Paris,2023-08-10 00:00:00,2023-08-29,19,Alicia Ferguson,20,Male,British,Resort,463.63,Plane,347.61
 381,Lisbon,2024-12-15 00:00:00,,22,Tyler Harris,79,Male,Mexican,Resort,99.65,Car rental,32.31
 382,Barcelona,2023-03-23 00:00:00,2023-04-14,22,Sean Padilla,39,Male,Irish,Hotel,$677.44,Car rental,282.79
@@ -626,7 +626,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 650,Dubai,2024-08-03 00:00:00,2024-08-19,16,Alicia Williams,22,Female,Mexican,Hotel,138.5,Plane,"1,483.56 USD"
 651,Amsterdam,2023-06-23 00:00:00,2023-06-30,7,Jared White,28,Female,Japanese,Hotel,447.76,Bus,964.08 USD
 652,Barcelona,2023-07-16 00:00:00,2023-07-29,13,Natalie Bass,77,Male,Turkish,Hotel,249.27,Bus,1355.59
-653,Bangkok,2023-06-19 00:00:00,2023-07-07,18,Karen Monroe,50,Female,Singaporean,Guesthouse,181.11,Car rental,689.3
+653,Bangkok,2023-06-19 00:00:00,2023-07-07,18,Karen Monroe,50,Female,Singaporean,Guesthouse,0,Car rental,689.3
 654,Dublin,2023-01-23 00:00:00,2023-02-19,27,Lauren Adams,62,Male,Italian,Resort,784.16,Boat,
 655,Lisbon,2024-01-08 00:00:00,2024-01-15,7,Derek Cook,28,Male,Italian,Hotel,534.96,Boat,240.08
 656,Berlin,2024-08-10 00:00:00,2024-09-03,24,Gabrielle Russell,47,Female,Canadian,Hotel,96.62,Boat,879.34
@@ -821,7 +821,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 851,Sydney,2023-01-12 00:00:00,2023-02-06,25,Eric Fuentes,33,Male,Brazilian,Airbnb,942.53,Bus,221.74
 852,Rome,2023-05-20 00:00:00,2023-06-06,17,Shawn Garza,47,Female,Singaporean,Airbnb,515.19,Plane,271.39
 853,New York,2024-08-06 00:00:00,2024-08-16,10,Mrs. Elizabeth Romero,40,Male,Turkish,Hotel,741.4,Plane,1006.27
-854,Dublin,2023-08-22 00:00:00,2023-09-06,15,Thomas Rogers,24,Male,Egyptian,Guesthouse,856.39,Plane,1192.06
+854,Dublin,2023-08-22 00:00:00,2023-09-06,15,Thomas Rogers,24,Male,Egyptian,Guesthouse,0,Plane,1192.06
 855,Prague,2024-09-07 00:00:00,2024-09-23,16,Alexander Wright,68,Female,Turkish,Hotel,86.04,Bus,757.53
 856,Paris,2024-07-16 00:00:00,,29,Katie Harris,20,Female,Italian,Resort,766.0,Plane,691.49
 857,London,2023-04-13 00:00:00,2023-04-23,10,Billy Ortiz,48,Male,Dutch,Airbnb,870.43,Train,43.13
@@ -1223,7 +1223,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1277,Berlin,2023-10-24 00:00:00,2023-11-17,24,Christopher Kelly,62,Male,Greek,Airbnb,186.22,Train,1166.87
 1278,Seoul,2024-08-26 00:00:00,2024-09-21,26,Vicki Bruce,79,Female,Russian,Hostel,212.75,Car rental,398.76
 1279,New York,13-08-2024,2024-08-26,13,Jessica Knight,40,Female,Peruvian,Airbnb,416.75,Plane,910.02
-1280,Istanbul,15-06-2024,2024-07-09,24,Krista Monroe,49,Female,Portuguese,Guesthouse,731.53,Boat,144.2
+1280,Istanbul,15-06-2024,2024-07-09,24,Krista Monroe,49,Female,Portuguese,Guesthouse,0,Boat,144.2
 1281,Toronto,2024-08-14 00:00:00,2024-09-07,24,Eric Morgan,18,Female,Norwegian,Hotel,938.84,Train,1358.41
 1282,Miami,2024-07-05 00:00:00,2024-07-15,10,Terri Allen,47,Female,Italian,Airbnb,618.22,Car rental,345.01
 1283,Toronto,2024-04-12 00:00:00,2024-04-14,2,Aaron Castillo,26,Female,French,Hotel,696.16,Plane,318.89
@@ -1271,7 +1271,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1329,Hanoi,2024-09-14 00:00:00,2024-10-02,18,James Russell,72,Male,Singaporean,Resort,83.69,Train,128.83
 1330,Toronto,2023-11-20 00:00:00,2023-12-07,17,Tiffany Weiss,63,Male,German,Airbnb,717.93,Plane,505.35
 1331,Sydney,2024-05-28 00:00:00,2024-05-31,3,Frank Torres,65,Female,German,Resort,723.18,Car rental,347.63
-1332,Bangkok,2024-06-27 00:00:00,2024-07-20,23,Donna Sanchez DVM,39,Female,Singaporean,Guesthouse,398.97,Train,
+1332,Bangkok,2024-06-27 00:00:00,2024-07-20,23,Donna Sanchez DVM,39,Female,Singaporean,Guesthouse,0,Train,
 1333,Toronto,2023-07-03 00:00:00,2023-07-23,20,Jessica Pope,65,Female,Portuguese,Resort,525.23,Train,
 1334,Toronto,2023-05-15 00:00:00,2023-06-10,26,Nicholas Vargas,55,Male,Italian,Hostel,351.83,Train,214.39
 1335,Singapore,2023-08-07 00:00:00,2023-08-14,7,Erica Carter,19,Male,Irish,Resort,604.17,Plane,220.33
@@ -1296,7 +1296,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1356,Buenos Aires,2023-07-25 00:00:00,2023-08-12,18,Angela Riley,65,Female,Irish,Airbnb,,Boat,136.89
 1357,London,2023-09-05 00:00:00,2023-09-17,12,Zoe Marquez,48,Male,Thai,Resort,219.27,Boat,211.84
 1358,Dubai,2024-11-01 00:00:00,2024-11-26,25,Jonathan Goodman,50,Male,Portuguese,Resort,70.02,Train,344.15
-1359,London,25-07-2023,2023-08-09,15,Scott Carroll,22,Male,Portuguese,Guesthouse,411.54,Car rental,1177.38
+1359,London,25-07-2023,2023-08-09,15,Scott Carroll,22,Male,Portuguese,Guesthouse,0,Car rental,1177.38
 1360,Los Angeles,2023-09-11 00:00:00,2023-09-12,1,Thomas Gomez,38,Female,Italian,Resort,252.15,Boat,395.21 USD
 1361,Lisbon,2023-10-01 00:00:00,2023-10-21,20,Amy Elliott,62,Male,French,Villa,431.7,Plane,653.44
 1362,Singapore,2023-07-05 00:00:00,2023-08-01,27,Jennifer Palmer,39,Female,Canadian,Hotel,308.54,Train,704.14
@@ -1376,7 +1376,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1437,Sydney,2024-07-28 00:00:00,2024-08-15,18,Deborah Gonzalez,33,Female,Mexican,Airbnb,901.27,Boat,282.59
 1438,Buenos Aires,28-06-2024,2024-07-23,25,Lori Beasley,63,Female,Irish,Hotel,,Train,986.19
 1439,Toronto,2024-12-08 00:00:00,2024-12-28,20,Jennifer Marquez,72,Female,American,Hostel,639.67,Bus,782.6
-1440,New York,2024-06-10 00:00:00,2024-07-04,24,Betty Mcfarland MD,21,Female,Russian,Guesthouse,344.04,Bus,
+1440,New York,2024-06-10 00:00:00,2024-07-04,24,Betty Mcfarland MD,21,Female,Russian,Guesthouse,0,Bus,
 1441,Istanbul,2023-07-28 00:00:00,2023-08-11,14,Sara Hill,57,Male,Egyptian,Airbnb,344.45,Plane,584.36
 1442,Miami,2023-09-27 00:00:00,2023-10-08,11,Angela Pineda,18,Female,Singaporean,Airbnb,218.92,Bus,871.35
 1443,Bangkok,2024-07-27 00:00:00,2024-08-11,15,Nicholas Johnson,58,Male,Indonesian,Hotel,971.15,Train,
@@ -1403,7 +1403,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1465,Seoul,2023-09-10 00:00:00,2023-10-03,23,Robert Watson,27,Female,South Korean,Airbnb,$121.53,Train,745.71
 1466,Dubai,2023-08-19 00:00:00,2023-09-11,23,Dylan Smith,56,Female,Mexican,Airbnb,826.96,Train,132.48
 1467,Istanbul,2024-11-08 00:00:00,2024-11-17,9,Jennifer Carr,35,Female,Mexican,Airbnb,652.67,Boat,99.3
-1468,Los Angeles,2023-09-26 00:00:00,2023-10-14,18,Katie Hernandez,21,Female,French,Guesthouse,620.6,Plane,943.37
+1468,Los Angeles,2023-09-26 00:00:00,2023-10-14,18,Katie Hernandez,21,Female,French,Guesthouse,0,Plane,943.37
 1469,Singapore,2023-04-02 00:00:00,2023-05-02,30,Alec Christensen,47,Male,Brazilian,Hotel,989.4,Bus,90.87
 1470,Paris,2023-11-21 00:00:00,2023-11-23,2,Roy Carr,24,Male,Singaporean,Hotel,79.12,Car rental,516.01
 1471,Sydney,2024-02-01 00:00:00,2024-02-10,9,Michael Landry,18,Male,Turkish,Airbnb,288.91,Car rental,1299.98
@@ -1464,12 +1464,12 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1529,Barcelona,2023-08-16 00:00:00,2023-08-31,15,Stephanie Kennedy,59,Female,American,Hotel,234.94,Plane,1253.93
 1530,Seoul,2024-06-04 00:00:00,2024-06-28,24,Brandon Powers,66,Male,British,Villa,582.75,Bus,1332.28
 1531,Seoul,2024-08-04 00:00:00,2024-08-25,21,Robert Kim,72,Male,Turkish,Hotel,897.52,Plane,1216.26
-1532,Oslo,2024-11-04 00:00:00,2024-11-21,17,Bianca Good,38,Female,Emirati,Guesthouse,425.04,Car rental,359.28
+1532,Oslo,2024-11-04 00:00:00,2024-11-21,17,Bianca Good,38,Female,Emirati,Guesthouse,0,Car rental,359.28
 1533,Prague,2024-07-21 00:00:00,2024-08-18,28,Kathleen Stevens,29,Female,Emirati,Resort,297.37,Boat,1151.93
 1534,Tokyo,2023-08-12 00:00:00,2023-08-30,18,Zachary Pruitt,67,Female,Spanish,Hotel,463.62,Train,946.24
 1535,Tokyo,14-07-2024,2024-08-11,28,Mrs. Jessica Brown MD,69,Male,South African,Airbnb,449.96,Boat,1148.52
 1536,London,2023-06-08 00:00:00,2023-06-26,18,Craig Powell,33,Male,Singaporean,Hotel,443.71,Train,559.46
-1537,Singapore,2024-07-02 00:00:00,2024-07-08,6,Briana Diaz,71,Female,Turkish,Guesthouse,188.98,Car rental,1420.42
+1537,Singapore,2024-07-02 00:00:00,2024-07-08,6,Briana Diaz,71,Female,Turkish,Guesthouse,0,Car rental,1420.42
 1538,Sydney,2023-02-18 00:00:00,2023-02-23,5,Blake Wright,51,Female,Indonesian,Hostel,137.41,Bus,1379.08
 1539,Singapore,2023-06-19 00:00:00,2023-06-22,3,Erin Dixon,54,Female,Spanish,Hotel,158.71,Plane,399.04
 1540,Oslo,2023-04-24 00:00:00,2023-05-14,20,Brandon Ward,69,Male,Japanese,Hotel,510.49,Plane,1058.04
@@ -1482,7 +1482,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1547,Singapore,2023-08-11 00:00:00,2023-08-30,19,Jimmy Anderson,58,Male,French,Hostel,691.36,Boat,1316.48
 1548,Sydney,2024-10-19 00:00:00,2024-11-07,19,Curtis Williams,58,Female,French,Airbnb,167.06,Car rental,351.07
 1549,Seoul,2023-06-05 00:00:00,,12,Robyn Powell,22,Male,South Korean,Airbnb,818.56,Train,388.4
-1551,Dublin,2024-04-17 00:00:00,2024-05-12,25,James Caldwell V,56,Male,Thai,Guesthouse,270.1,Boat,1093.01
+1551,Dublin,2024-04-17 00:00:00,2024-05-12,25,James Caldwell V,56,Male,Thai,Guesthouse,0,Boat,1093.01
 1552,Prague,2024-08-23 00:00:00,2024-09-11,19,Steve Graham,78,Female,French,Hotel,161.82,Car rental,1114.68
 1553,Lisbon,2024-09-06 00:00:00,2024-09-29,23,Melissa Wood,18,Male,Mexican,Resort,674.86,Train,376.64
 1554,Amsterdam,2023-12-22 00:00:00,2024-01-01,10,Eric Benson,29,Male,Singaporean,Airbnb,933.69,Boat,823.32
@@ -1630,14 +1630,14 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1697,Berlin,10-09-2024,2024-09-25,15,Gregory Hess,51,Male,South Korean,Hotel,779.4,Train,527.16
 1698,Prague,2024-07-24 00:00:00,2024-08-04,11,Jason Bernard,74,Male,Mexican,Riad,686.91,Train,635.58
 1699,Sydney,2023-09-04 00:00:00,2023-09-28,24,Samantha Flores,68,Female,Norwegian,Resort,$154.68,Bus,"1,476.03 USD"
-1700,Barcelona,2024-12-14 00:00:00,2025-01-01,18,Brandon Schwartz,31,Male,Mexican,Guesthouse,392.27,Boat,582.49
+1700,Barcelona,2024-12-14 00:00:00,2025-01-01,18,Brandon Schwartz,31,Male,Mexican,Guesthouse,0,Boat,582.49
 1701,Sydney,2023-05-15 00:00:00,2023-05-18,3,Greg Hall,54,Female,Singaporean,Airbnb,183.93,Train,35.85
 1702,Toronto,2023-07-28 00:00:00,2023-08-01,4,James Hunter,48,Female,Japanese,Airbnb,561.27,Car rental,198.27
 1703,Dubai,2023-07-16 00:00:00,2023-07-23,7,Kyle Li,54,Female,Swiss,Hotel,,Boat,1453.76
 1704,Seoul,2023-11-09 00:00:00,,28,Pamela Sparks,55,Male,Singaporean,Resort,443.11,Train,532.72
 1705,Miami,2024-03-24 00:00:00,2024-04-08,15,Tony Knight,49,Male,South Korean,Hotel,740.51,Boat,1183.84
 1706,Bangkok,2023-04-17 00:00:00,2023-04-21,4,Anthony Larsen,50,Female,Emirati,Hotel,275.97,Bus,90.21
-1707,Los Angeles,2024-09-20 00:00:00,2024-10-12,22,Jessica Hughes,20,Female,Emirati,Guesthouse,744.15,Train,93.48
+1707,Los Angeles,2024-09-20 00:00:00,2024-10-12,22,Jessica Hughes,20,Female,Emirati,Guesthouse,0,Train,93.48
 1708,Rome,2024-10-18 00:00:00,2024-11-13,26,April Owens,37,Female,American,Resort,333.75,Car rental,172.07
 1709,New York,2023-06-11 00:00:00,2023-07-05,24,Robert Mccarthy,43,Male,Portuguese,Hotel,200.37,Plane,1178.27
 1711,Dubai,2024-10-09 00:00:00,2024-10-31,22,Rebecca Rose,35,Female,Dutch,Airbnb,148.54,Car rental,1042.25
@@ -1746,7 +1746,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1820,Rome,2023-05-20 00:00:00,2023-05-22,2,Meghan Jarvis,46,Female,Mexican,Airbnb,340.28,Train,131.3
 1821,Tokyo,2023-10-01 00:00:00,2023-10-27,26,Dustin Miller,70,Female,Norwegian,Hotel,$407.35,Bus,23.13
 1822,Oslo,2024-07-22 00:00:00,2024-08-14,23,Ryan Johns,46,Female,Japanese,Hotel,128.05,Bus,810.66
-1824,Bangkok,2024-07-27 00:00:00,2024-08-14,18,Brenda Henson,46,Female,Norwegian,Guesthouse,$243.85,Plane,833.62
+1824,Bangkok,2024-07-27 00:00:00,2024-08-14,18,Brenda Henson,46,Female,Norwegian,Guesthouse,0,Plane,833.62
 1826,Seoul,2023-07-04 00:00:00,2023-07-30,26,Michael Williams,37,Female,Portuguese,Airbnb,,Boat,651.46
 1827,Amsterdam,2023-05-18 00:00:00,2023-06-11,24,Amanda Jones,57,Male,Singaporean,Resort,100.67,Car rental,425.77
 1828,Oslo,2024-12-24 00:00:00,2025-01-12,19,Angela Lawrence,26,Female,American,Hotel,408.92,Boat,107.53
@@ -1766,7 +1766,7 @@ Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler a
 1843,Toronto,2024-12-19 00:00:00,2025-01-10,22,Brian Henry,64,Female,Dutch,Hostel,838.47,Car rental,627.96
 1844,Cape Town,2023-08-28 00:00:00,2023-09-16,19,Thomas Johnson,59,Male,Thai,Airbnb,329.66,Boat,1480.35
 1845,Toronto,2023-06-20 00:00:00,2023-07-12,22,Erica Crawford,77,Female,Emirati,Airbnb,137.32,Boat,1396.11
-1846,Paris,2023-01-11 00:00:00,2023-01-28,17,Brian Peterson,72,Male,Mexican,Guesthouse,620.32,Boat,739.61
+1846,Paris,2023-01-11 00:00:00,2023-01-28,17,Brian Peterson,72,Male,Mexican,Guesthouse,0,Boat,739.61
 1847,Cairo,2024-08-20 00:00:00,2024-08-27,7,Stephen Weeks,40,Male,French,Airbnb,775.81,Car rental,148.87
 1848,Barcelona,2024-09-12 00:00:00,2024-10-10,28,Wanda Lambert,66,Male,Irish,Hotel,902.62,Boat,1174.27
 1849,Los Angeles,2024-12-27 00:00:00,2025-01-17,21,Kevin Jones,20,Male,Canadian,Airbnb,760.29,Car rental,1028.74
